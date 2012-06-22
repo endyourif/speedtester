@@ -1,0 +1,5 @@
+c:\users\jmunro\documents\visual studio 2010\Projects\SpeedTester\SpeedTester\bin\Debug\SpeedTester.exe
+c:\users\jmunro\documents\visual studio 2010\Projects\SpeedTester\SpeedTester\bin\Debug\SpeedTester.pdb
+c:\users\jmunro\documents\visual studio 2010\Projects\SpeedTester\SpeedTester\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jmunro\documents\visual studio 2010\Projects\SpeedTester\SpeedTester\obj\x86\Debug\SpeedTester.exe
+c:\users\jmunro\documents\visual studio 2010\Projects\SpeedTester\SpeedTester\obj\x86\Debug\SpeedTester.pdb
